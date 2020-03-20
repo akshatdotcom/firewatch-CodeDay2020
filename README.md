@@ -1,5 +1,7 @@
 # firewatch
 
+## A CodeDay 2020 project by (Reese Hoffart)[https://github.com/reese-hoffart] and (Akshat Shah)[https://akshatshah.com]
+
 A Flutter app to predict wildfires when given the location.
 
 Future Enhancements:
